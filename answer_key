@@ -1,0 +1,16 @@
+web:
+chall 1:CH{H4CK3R5_1N51D3_MY_W3B51T3} //hydra use brute force. username: john password:johncena
+chall 2:CH{S0m37IM3_Y0U_2H0ULD_S33_Th3_0TH#R_WAY} //https://alby-shinoj.github.io/Game-CTF/    o to the site and play the game you will get the flag when you your score reaches 5000   //solution:use inspect element and find
+
+forensics:
+chall 1: CH{p0w3rsh3ll_Cr4dl3s_c4n_g3t_th3_j0b_d0n3} //simple searching inside code
+chall 2: CH{H@cker_m@n_1337}   //simple just searching inside code
+chall 3: CH{N0_PA1N_N0_GA1N} //brute force zip file password. and use text editor to view the audio and image file
+chall 4: CH{T43_TH1NG_7HA7_L3A5T_8OTH3R    //the flag is encrypted in the image using simple cmd technique, sol:we can get the flag by opening the image in txt file format 
+
+Cryptography:
+chall 1: CH{1n_y0ur_j0urn3y_t0_n0th1ng}  //first decode from hex and then decode from base64
+chall 2: CH{Wh3r3_1s_my_m1nd?}   //use www.dcode.fr
+chall 3: CH{S0M3_T1M3S_S1LANC3_SP3AK8_L0UD3R} //image decode tool:https://github.com/Alby-Shinoj/LTxtImg Dec:go to the tool and enter the image path password is hidden in the image qrcode which is "password" 
+
+

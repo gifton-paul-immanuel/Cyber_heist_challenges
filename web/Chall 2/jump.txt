@@ -1,0 +1,4 @@
+https://alby-shinoj.github.io/Game-CTF/
+Dec:go to the site and play the game you will get the flag when you your score reaches 5000
+
+
