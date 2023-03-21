@@ -1,0 +1,7 @@
+
+https://alby-shinoj.github.io/Game-CTF/
+Dec:go to the site and play the game you will get the flag when you your score reaches 5000
+
+solution:use inspect element and find
+
+Flag: CH{S0m37IM3_Y0U_2H0ULD_S33_Th3_0TH#R_WAY}
