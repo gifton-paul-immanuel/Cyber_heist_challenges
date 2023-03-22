@@ -1,12 +1,12 @@
 
 image decode tool:https://github.com/Alby-Shinoj/LTxtImg
 
-Dec:go to the tool and enter the image path password is hidden in the image qrcode which is "password" 
+Dec:go to the tool and enter the image path password is hidden in the image qrcode which is "dasauto" 
 
-text after decoding the image:BUAxCoBQCL2S8pZWsSFIP9Gr+R0kurvk8dEaerxB0StWQrwQ56ayd8f9Dw==
+text after decoding the image:BUBBCoBACHxcl+49YHBlLKFVMOkS/X3Z9u/wbo8THugSM1dc8iD4sjDIwMwiNKdltYyb/wI=
 
 key:SAML Decode
 
 solution:
 
-Flag: CH{S0M3_T1M3S_S1LANC3_SP3AK8_L0UD3R}
+Flag: CH{Sitting_in_traffic_has_never_been_more_comfortable}
