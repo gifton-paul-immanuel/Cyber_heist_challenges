@@ -1,1 +1,4 @@
 CH(Minion_Yellow_represents_optimism_and_joy)
+
+use steghide to get the flag
+$ steghide extract -sf '/home/kali/Documents/TOOLS/img/teg_it.jpeg' -p bob -xf '/home/kali/Documents/TOOLS/img/Impmsg.txt'
